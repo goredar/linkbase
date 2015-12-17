@@ -15,6 +15,7 @@
 - [ ] [Ansible](http://www.ansible.com/)
 - [ ] [Collectd/Collectl](http://collectl.sourceforge.net/)
 
+## HashiCorp 
 - [ ] [Vagrant](https://www.vagrantup.com/)
 - [ ] [Otto](https://www.ottoproject.io/)
 - [ ] [Consul](https://consul.io/intro)
@@ -22,3 +23,4 @@
 - [ ] [Terraform](https://www.terraform.io/)
 - [ ] [Serf](https://www.serfdom.io/)
 - [ ] [Vault](https://www.vaultproject.io/)
+- [ ] [Nomad](https://nomadproject.io/)
