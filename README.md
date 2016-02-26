@@ -15,6 +15,9 @@
 - [ ] [Ansible](http://www.ansible.com/)
 - [ ] [Collectd/Collectl](http://collectl.sourceforge.net/)
 
+### WebServers
+- [ ] [Caddy](https://caddyserver.com/)
+
 ### HashiCorp 
 - [ ] [Vagrant](https://www.vagrantup.com/)
 - [ ] [Otto](https://www.ottoproject.io/)
